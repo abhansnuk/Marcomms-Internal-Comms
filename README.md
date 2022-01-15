@@ -1,3 +1,8 @@
+
+Update 1/2022: 
+The discussions from this repo are to be moved to a new 'Marketing Team' repo under the WordPress organization. The information below in this read me file is to be transferred to the website type interface, and then this repo under WordPress can be deleted.
+Thank you. Abha
+
 # Marcomms-Internal-Comms
 This is the repo for general discussions among the team itself and to test discussion features.
 
